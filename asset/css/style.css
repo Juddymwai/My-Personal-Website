@@ -29,7 +29,10 @@ body{
 .aboutme{
     display: flex;
 }
-
+.profile{
+    width: 50%;
+    padding-left: 30px;
+}
 #contact{
     background-color: grey;
     padding-left: 30px;
