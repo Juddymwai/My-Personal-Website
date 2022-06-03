@@ -24,7 +24,16 @@ body{
     padding-left: 60px;
     
 }
+#contact{
+    background-color: grey;
+    padding-left: 30px;
+}
+#contact1{
+    background-color: grey;
+    border-radius: 20px;
+}
 
 #footer{
     text-align: center;
+    b
 }
