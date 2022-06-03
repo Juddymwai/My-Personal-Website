@@ -1,10 +1,27 @@
 body{
-    background-color: white;
+    background-color:white ;
 
 }
 #header{
-    background-image: url'/asset';
+    background-image:url("/asset/image/back1.jpg");
+    background-size: cover;
+    height:300px;
 }
+.me{
+    text-align: center;
+    padding-top: 40px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+#nav{
+    display: flex;
+}
+.menu ul > li {
+    display: inline-block;
+
+}
+
 #footer{
     text-align: center;
 }
