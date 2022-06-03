@@ -51,7 +51,10 @@ img{
     
     padding-left: 50px;
 }
-
+.one button,.two button,.three>button{
+    width: 200px;
+    height:200px;
+}
 #contact{
     background-color: grey;
     padding-left: 30px;
