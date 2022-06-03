@@ -18,6 +18,7 @@ body{
     display: flex;
     background-color: grey;
     padding-left: 30px;
+    border-top-left-radius: 20px;
 }
 .menu ul > li {
     display: inline-block;
