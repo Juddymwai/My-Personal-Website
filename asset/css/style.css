@@ -1,5 +1,6 @@
 body{
     background-color:white ;
+    
 
 }
 #header{
@@ -45,6 +46,13 @@ img{
 #service1{
 
     display:flex;
+    
+}
+#services2{
+    padding-left: 30px;
+}
+#services{
+    border: 3px solid grey;
 }
 
 .one,.two,.three{
