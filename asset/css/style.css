@@ -76,8 +76,21 @@ img{
     background-color: grey;
     border-radius: 20px;
 }
-
+#btn1,#btn2{
+background-color: black;
+color: aliceblue;
+border: none;
+padding:10px;
+border-radius: 10px;
+}
 #footer{
     text-align: center;
+    padding-bottom: 20px;
     
+}
+a:link{
+    color: grey;
+}
+a:hover{
+    color:black;
 }
