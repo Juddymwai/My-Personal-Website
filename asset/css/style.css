@@ -46,6 +46,7 @@ img{
 #service1{
 
     display:flex;
+    padding-bottom: 20px;
     
 }
 #services2{
@@ -66,10 +67,12 @@ img{
     
 }
 #contact{
+    border: 3px solid grey;
     background-color: grey;
     padding-left: 30px;
 }
 #contact1{
+    
     background-color: grey;
     border-radius: 20px;
 }
