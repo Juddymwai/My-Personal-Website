@@ -1,5 +1,8 @@
 body{
     background-color:white ;
+    margin: auto;
+    width: 95%;
+    
     
 
 }
@@ -42,6 +45,12 @@ img{
     padding-left: 30px;
     padding-top: 60px;
     border-radius: 20px;
+    
+}
+#img{
+    background-color: grey;
+    width:50%;
+
 }
 #service1{
 
