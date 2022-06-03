@@ -16,9 +16,12 @@ body{
 }
 #nav{
     display: flex;
+    background-color: grey;
 }
 .menu ul > li {
     display: inline-block;
+    padding-left: 50px;
+    
 
 }
 
