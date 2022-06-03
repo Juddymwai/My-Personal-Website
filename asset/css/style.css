@@ -54,6 +54,8 @@ img{
 .one button,.two button,.three>button{
     width: 200px;
     height:200px;
+    border-radius: 20px;
+    
 }
 #contact{
     background-color: grey;
