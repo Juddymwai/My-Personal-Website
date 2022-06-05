@@ -4,12 +4,13 @@ body{
     width: 95%;
     
     
+    
 
 }
 #header{
     background-image:url("/asset/image/back1.jpg");
     background-size: cover;
-    height:300px;
+    height:600px;
 }
 .me{
     text-align: center;
@@ -23,13 +24,20 @@ body{
     background-color: grey;
     padding-left: 30px;
     border-top-left-radius: 20px;
+    justify-content: space-between;
 }
 .menu ul > li {
     display: inline-block;
     padding-left: 60px;
     
 }
+.menu ul{
+    display: flex;
+    justify-content: end;
+    margin-right: 0;
+    
 
+}
 .aboutme{
     display: flex;
     background-color: rgb(216, 207, 207);
@@ -42,13 +50,13 @@ body{
     padding-bottom: 20px;
 }
 img{
-    padding-left: 30px;
+    padding-left: 50px;
     padding-top: 60px;
     border-radius: 20px;
     
 }
 #img{
-    background-color: grey;
+    background-color: rgb(197, 184, 184);
     width:50%;
 
 }
@@ -56,13 +64,19 @@ img{
 
     display:flex;
     padding-bottom: 20px;
+    justify-content:center;
     
 }
 #services2{
     padding-left: 30px;
+    
 }
+
 #services{
+    margin: auto;
+    width: 70%;
     border: 3px solid grey;
+    background-color: grey;
 }
 
 .one,.two,.three{
